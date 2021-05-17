@@ -49,7 +49,7 @@ In Simulator page, we need to change the parameters below (for the rest of the p
 
 
 
-### Workflow 3. [most complex] BOLD signal simulation:
+### Workflow 3. [highest complexity] BOLD signal simulation:
 
 1. conduction velocity: 10.0
 2. alpha (a): [0.001, 0.01, 0.001]
